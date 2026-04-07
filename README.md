@@ -6,7 +6,7 @@ This project showcases end-to-end implementations of core ML concepts including 
 ---
 
 ## 📁 Project Structure
-
+```
 ML/
 ├── 📁 classification_with_python/
 │   ├── classification_notebook.ipynb
@@ -27,7 +27,7 @@ ML/
 │   ├── regreesion.ipynb
 │   └── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🔹 1. Regression
