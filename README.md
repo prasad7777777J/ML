@@ -8,11 +8,25 @@ This project showcases end-to-end implementations of core ML concepts including 
 ## 📁 Project Structure
 
 ML/
-│
-├── Regression_with_python
-├── classification_with_python
-├── clustering_with_python
-├── Data_preprocessing
+├── 📁 classification_with_python/
+│   ├── classification_notebook.ipynb
+│   ├── heart.csv
+│   └── requirements.txt
+├── 📁 clustering_with_python/
+│   ├── Clustering_Notebook.ipynb
+│   ├── moving_3d_clustering.gif
+│   └── requirements.txt
+├── 📁 Data_preprocessing/
+│   ├── Preprocessing_Notebook.ipynb
+│   ├── Readme.md
+│   └── requirements.txt
+├── 📁 Regression_with_python/
+│   ├── avg-household-size.csv
+│   ├── cancer_reg.csv
+│   ├── README.md
+│   ├── regreesion.ipynb
+│   └── requirements.txt
+└── README.md
 
 ---
 
